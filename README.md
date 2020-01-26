@@ -10,7 +10,7 @@ We took three cars (Two rental Ford S-Max and one Subaru Forester) from Trondhei
 
 ![toParking](img/cabintrip1/carFromE6ToparkingLot.png)
 
-Unfortunately the deep snow hid some abrupt ledges on the side on one of the gravel paths. One move slightly of the track rendered my car incapable to move forward or backward. With deep snow under the left side and the bottom almost sitting on the ledge, the hard decision to call a towing truck was made. Luckily one street resident was at home and was happy to help us out calling them. After two hours and a fee of NOK3500, my car was free again and undamaged.
+Unfortunately the deep snow hid some abrupt ledges on the side on one of the gravel paths. One move slightly of the track rendered my car incapable to move forward or backward. With deep snow under the left side and the bottom of the car almost sitting on top of the ledge, the hard decision to call a towing truck was made. Luckily one of the street resident was at home and was happy to help us out calling the towing company. After two hours and a fee of NOK3500, my car was free again and undamaged.
 
 ![foresterStuck](img/cabintrip1/foresterStuck.jpg)
 
