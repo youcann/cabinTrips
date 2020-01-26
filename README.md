@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Cabin Trip To Vekvessætra (2020/01/18 to 2020/01/19)
 
-You can use the [editor on GitHub](https://github.com/youcann/cabinTripsPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Journey To The Cabin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We took three cars (Two rental Ford S-Max and one Subaru Forester) from Trondheim to the parking lot near the cabin. Most of the trip was on the E6, which means road conditions were as good as expected.
 
-### Markdown
+![carride](img/cabintrip1/carride.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ After taking the E6 at exit `13 (Skjephaug)` the roads were mostly gravel or tarmac covered with snow. 
 
-```markdown
-Syntax highlighted code block
+![toParking](img/cabintrip1/carFromE6ToparkingLot.png)
 
-# Header 1
-## Header 2
-### Header 3
+Unfortunately the deep snow hid some abrupt ledges on the side on one of the gravel paths. One move slightly of the track rendered my car incapable to move forward or backward. With deep snow under the left side and the bottom almost sitting on the ledge, the hard decision to call a towing truck was made. Luckily one street resident was at home and was happy to help us out calling them. After two hours and a fee of NOK3500, my car was free again and undamaged.
 
-- Bulleted
-- List
+![foresterStuck](img/cabintrip1/foresterStuck.jpg)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+From there on the trip on skies went rather uneventful.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![toParking](img/cabintrip1/wayToCabin.png)
 
-### Jekyll Themes
+### At The Cabin
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/youcann/cabinTripsPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![toParking](img/cabintrip1/hutte1_compressed.png)
 
-### Support or Contact
+![toParking](img/cabintrip1/hutte2_compressed.png)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Journey Back From The Cabin
+
+The way back from the cabin to our cars was really uneventful. I switched from cross country skies to snow shoes. In mildly deep snow and perfect weather it was really easy covering the distance of around 3.5 km. As you can see in the speed vs. distance plot below, my average speed was about 4 km/h with the snow shoes. The other guys on the skies were a bit faster (6...8 km/h, not shown).
+
+![toParking](img/cabintrip1/wayFromCabin.png)
